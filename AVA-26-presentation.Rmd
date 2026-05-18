@@ -45,8 +45,8 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 
 ::: {.column width="48%"}
-- Hi, I'm Seth, I'm a Research scientist, Humane & Sustainable Food Lab at Stanford ([foodlabstanford.com](https://www.foodlabstanford.com/))
-- Founded in early 2023 to accelerate the end of factory farming
+- Hi, I'm Seth, I'm a Research scientist at the Humane & Sustainable Food Lab at Stanford ([foodlabstanford.com](https://www.foodlabstanford.com/))
+- The lab was started in early 2023 to accelerate the end of factory farming
 - I joined July 2024, I write meta-analyses (and [a Substack](https://regressiontothemeat.substack.com/)) and run experiments
 :::
 :::::
@@ -150,9 +150,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Context here is startup ideas that change the world but that seemed insane at the outset, like a business that hinges on letting strangers into your home days/weeks at a time.
 
-- Likewise,defaults, alt proteins, and campaigns allI sound like good ideas. I want to hear more ideas that are like Airbnb or Dropbox, something that will probably fail but might
+- Likewise, defaults, alt proteins, and campaigns all sound like good ideas. I want to hear more ideas that are like Airbnb or Dropbox, something that will probably fail but might just work
 
-## Weird flavor 1: literally weird
+## Maybe that means literally weird as in "WTH??"
 
 ::::: columns
 ::: {.column width="48%"}
@@ -160,38 +160,20 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 
 ::: {.column width="52%"}
-- [Thai study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238642): put a hole in the fish sauce spoon! Make it inconvenient to do your normal stuff
+- [Thai study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238642): put a hole in the fish sauce spoon. Make it inconvenient to do your normal stuff
 - I think this would never fly in America but who cares? If it works there, great
 - Small reduction in fish sauce per person (\textasciitilde{}0.58g per bowl; [Kanchanachitra et al. 2020](https://doi.org/10.1371/journal.pone.0238642)), but fish sauce fishes are really small so that's actually a lot of fish lives
 :::
 :::::
 
-## Weird flavor 2: extremely specific
+## Or really not scalable or without any clear application
 
-- You know one cafeteria, one community really well
-- You have an idea that would only work *there*
-- The instinct: "I can't scale this, so why bother?"
-- Don't listen to that instinct
-- A real result at one place is still a result
+- You know one cafeteria, one community really well and your idea would only work there
+  - "I can't scale this, so why bother?" No!! Let's all do something that works and let's record a lot of qualitative results so we can [build some theory](https://regressiontothemeat.substack.com/p/moralization-even-with-clear-cut)
+- Or you might have an idea where you can't see a way any advocacy group would take up the mantle
+  - Fine with me. Ex: I want to talk to people about fear, and early childhood, and food. One on one, really listening. I can't see any way someone would take that baton from me. But it's interesting and it might generate insights and that's fine ("*Do not trouble your hearts overmuch with thought of the road tonight").*
 
-## Weird flavor 3: really fundamental
+## So what are your ideas
 
-- I want to talk to people about fear
-- The scarcity mindset: "I need the most protein I can get"
-- We're wealthy — we can put the meat down
-- No scale, no funding pitch, no viable mechanism
-- Just something I think is true
-- From that: maybe something that eventually scales
-
-## What's your weird theory of change?
-
-- Our existing strategies aren't doing the trick
-- I want more papers pursuing genuinely new ideas
-- I will do IRB paperwork; I want to be a co-author
-- Bring me your weird idea
-
-\bigskip
-
-\begin{center}
-\large \href{mailto:setgree@stanford.edu}{setgree@stanford.edu}
-\end{center}
+- Especially if you want to test them rigorously & want someone to do the IRB paperwork & coauthor the paper, I'm here for it ([setgree\@stanford.edu](mailto:setgree@stanford.edu))
+- So what are your ideas? Seriously
