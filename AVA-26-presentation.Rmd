@@ -59,9 +59,9 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 
 ::: {.column width="38%"}
-- [Meta-analytic review](https://doi.org/10.1016/j.appet.2025.108233) of MAP reduction interventions
-- Only RCTs, $\geq$ 25 per arm, direct consumption measure, $\geq$ 1 day follow-up
-- Thousands of papers $\rightarrow$ 35
+- My firs project was a [Meta-analytic review](https://doi.org/10.1016/j.appet.2025.108233) of meat and animal product (MAP) reduction interventions
+- "But what do the good studies say??" was our question, which meant only RCTs, $\geq$ 25 per arm, direct consumption measure, & $\geq$ 1 day follow-up
+- This winnows thousands of papers down to 35 (41 studies and 112 interventions)
 :::
 :::::
 
@@ -69,17 +69,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/appetite-main-results.png){width="100%"}
+\includegraphics[width=\linewidth]{images/appetite-main-results.png}
+
+\small SMD = standardized mean difference
 :::
 
 ::: {.column width="50%"}
+Main approaches:
+
 - **Persuasion**: animal welfare, environment, health
 - **Choice architecture**: nudges, defaults
 - **Psychology**: mostly norms experiments
 
-\bigskip
-
-**Overall: small, sparse effects** — generally a few percentage points
+**Overall: small, sparse effects** — generally changes of a few percentage points. Sad!
 :::
 :::::
 
@@ -91,10 +93,10 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 
 ::: {.column width="72%"}
-- Around the same time, movement orgs concluded persuasion wasn't working
-- **Defaults**: plant-forward menus at scale (e.g., universities, hospitals)
-- **Alt proteins**: Bruce Friedrich and the Good Food Institute
-- **Corporate campaigns**: cage-free, better chicken welfare standards
+- Around the same time, movement orgs (as far as I can tell) concluded persuasion wasn't working and shifted to
+  - **Defaults**: plant-forward menus at scale (e.g., universities, hospitals)
+  - **Alt proteins**: Bruce Friedrich and the Good Food Institute
+  - **Corporate & political campaigns**: cage-free & BCC commitments, gestation crate bans
 :::
 :::::
 
@@ -150,7 +152,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Context here is startup ideas that change the world but that seemed insane at the outset, like a business that hinges on letting strangers into your home days/weeks at a time.
 
-- Likewise, defaults, alt proteins, and campaigns all sound like good ideas. I want to hear more ideas that are like Airbnb or Dropbox, something that will probably fail but might just work
+- Likewise,defaults, alt proteins, and campaigns allI sound like good ideas. I want to hear more ideas that are like Airbnb or Dropbox, something that will probably fail but might work in a huge way
 
 ## Maybe that means literally weird as in "WTH??"
 
