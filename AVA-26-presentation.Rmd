@@ -79,7 +79,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 \bigskip
 
-**Overall: small, sparse effects**
+**Overall: small, sparse effects** — generally a few percentage points
 :::
 :::::
 
