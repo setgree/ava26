@@ -162,7 +162,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ::: {.column width="52%"}
 - [Thai study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238642): put a hole in the fish sauce spoon! Make it inconvenient to do your normal stuff
 - I think this would never fly in America but who cares? If it works there, great
-- Small reduction in fish sauce per person (\textasciitilde{}2.6g per bowl; [Kanchanachitra et al. 2020](https://doi.org/10.1371/journal.pone.0238642)), but fish sauce fishes are really small so that's actually a lot of fish lives
+- Small reduction in fish sauce per person (\textasciitilde{}0.58g per bowl; [Kanchanachitra et al. 2020](https://doi.org/10.1371/journal.pone.0238642)), but fish sauce fishes are really small so that's actually a lot of fish lives
 :::
 :::::
 
