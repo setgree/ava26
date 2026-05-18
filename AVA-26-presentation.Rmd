@@ -37,78 +37,69 @@ if (file.exists(logo_file)) {
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Hi, I'm Seth
+## HSFL overview
 
 ::::: columns
-::: {.column width="50%"}
-![](images/foodlabstanford-homepage.png){width="100%"}
+::: {.column width="52%"}
+\includegraphics[width=\linewidth, height=0.68\textheight, keepaspectratio]{images/foodlabstanford-homepage.png}
 :::
 
-::: {.column width="50%"}
-- Research scientist, [Humane & Sustainable Food Lab](https://www.foodlabstanford.com/) at Stanford
-- Lab founded April 2023; I joined July 2024
-- Mission: accelerate the end of factory farming
-- I write meta-analyses (and [a Substack](https://regressiontothemeat.substack.com/)) and run experiments
+::: {.column width="48%"}
+- Hi, I'm Seth, I'm a Research scientist, Humane & Sustainable Food Lab at Stanford ([foodlabstanford.com](https://www.foodlabstanford.com/))
+- Founded in early 2023 to accelerate the end of factory farming
+- I joined July 2024, I write meta-analyses (and [a Substack](https://regressiontothemeat.substack.com/)) and run experiments
 :::
 :::::
 
 ## Meaningfully reducing MAP consumption is hard
 
 ::::: columns
+::: {.column width="62%"}
+![](images/appetite-meta.png){width="100%"}
+:::
+
 ::: {.column width="38%"}
 - [Meta-analytic review](https://doi.org/10.1016/j.appet.2025.108233) of MAP reduction interventions
 - Only RCTs, $\geq$ 25 per arm, direct consumption measure, $\geq$ 1 day follow-up
 - Thousands of papers $\rightarrow$ 35
-:::
-
-::: {.column width="62%"}
-![](images/appetite-meta.png){width="100%"}
 :::
 :::::
 
 ## What interventions have been tried?
 
 ::::: columns
-::: {.column width="45%"}
+::: {.column width="50%"}
 ![](images/appetite-main-results.png){width="100%"}
 :::
 
-::: {.column width="55%"}
-Five approaches:
-
-- Environment
-- Animal welfare
-- Health
-- Psychology
-- Choice architecture
+::: {.column width="50%"}
+\footnotesize
+Main approaches: **Persuasion** (animal welfare, environment, health), **choice architecture** (nudges/defaults), **psychology** (mostly norms)
 
 \bigskip
 
-**Overall: small, sparse effects**
+**Overall: small, sparse effects** — generally a few percentage points
 :::
 :::::
 
-## What the movement has concluded
+## This paralleled a conversation happening in the movement (that I didn't know about)
 
-- Individual persuasion isn't working at scale
-- Movement orgs reached the same conclusion
-- Three new strategies emerged:
+::::: columns
+::: {.column width="38%"}
+![](images/MEAT.jpg){width="100%"}
+:::
 
-\bigskip
+::: {.column width="62%"}
+- Around the same time, movement leaders figured out a big rethink was called for
+- Three new strategies emerged: **defaults at large institutions, corporate campaigns, and alt proteins**
+:::
+:::::
 
-\begin{center}
-\large Defaults \quad $\cdot$ \quad Alt proteins \quad $\cdot$ \quad Corporate campaigns
-\end{center}
-
-## Defaults: I'm a skeptic
+## Defaults: sorry, I'm a skeptic
 
 ::::: columns
 ::: {.column width="45%"}
-<!-- TODO: add screenshot of Substack post "Scaled Up" -->
-
-\begin{center}
-\fbox{\parbox[c][0.52\textheight]{0.38\textwidth}{\centering\small [TODO: Substack ``Scaled Up'' screenshot]}}
-\end{center}
+\includegraphics[width=\linewidth, height=0.68\textheight, keepaspectratio]{images/sacled-up.png}
 :::
 
 ::: {.column width="55%"}
