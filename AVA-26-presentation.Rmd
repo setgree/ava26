@@ -39,10 +39,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Hi, I'm Seth
 
-- Researcher, [Humane \& Sustainable Food Lab](https://www.foodlabstanford.com/) at Stanford
-- Lab founded 2023; I joined in 2024
+::::: columns
+::: {.column width="50%"}
+![](images/foodlabstanford-homepage.png){width="100%"}
+:::
+
+::: {.column width="50%"}
+- Research scientist, [Humane & Sustainable Food Lab](https://www.foodlabstanford.com/) at Stanford
+- Lab founded April 2023; I joined July 2024
 - Mission: accelerate the end of factory farming
-- I write meta-analyses (and [a Substack](https://regressiontothemeat.substack.com/))
+- I write meta-analyses (and [a Substack](https://regressiontothemeat.substack.com/)) and run experiments
+:::
+:::::
 
 ## Meaningfully reducing MAP consumption is hard
 
@@ -52,6 +60,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Only RCTs, $\geq$ 25 per arm, direct consumption measure, $\geq$ 1 day follow-up
 - Thousands of papers $\rightarrow$ 35
 :::
+
 ::: {.column width="62%"}
 ![](images/appetite-meta.png){width="100%"}
 :::
@@ -61,11 +70,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ::::: columns
 ::: {.column width="45%"}
-<!-- TODO: add Table 1 screenshot from paper -->
-\begin{center}
-\fbox{\parbox[c][0.52\textheight]{0.38\textwidth}{\centering\small [TODO: Table 1 screenshot]}}
-\end{center}
+![](images/appetite-main-results.png){width="100%"}
 :::
+
 ::: {.column width="55%"}
 Five approaches:
 
@@ -76,6 +83,7 @@ Five approaches:
 - Choice architecture
 
 \bigskip
+
 **Overall: small, sparse effects**
 :::
 :::::
@@ -97,10 +105,12 @@ Five approaches:
 ::::: columns
 ::: {.column width="45%"}
 <!-- TODO: add screenshot of Substack post "Scaled Up" -->
+
 \begin{center}
 \fbox{\parbox[c][0.52\textheight]{0.38\textwidth}{\centering\small [TODO: Substack ``Scaled Up'' screenshot]}}
 \end{center}
 :::
+
 ::: {.column width="55%"}
 - No defaults study met our inclusion criteria
 - No evidence on rebound at the next meal
@@ -111,7 +121,7 @@ Five approaches:
 
 ## Meat alternatives: also a skeptic
 
-- Beyond Meat (BYND): down \textasciitilde{}97--99\% from its 2019 peak of \$234.90
+- Beyond Meat (BYND): down \textasciitilde{}97--99% from its 2019 peak of \$234.90
 - Who is the target demographic?
 - No clear evidence a large "waiting" population exists
 - Survey data: resistance on "artificial" / "creepy" grounds
@@ -120,16 +130,18 @@ Five approaches:
 
 ::::: columns
 ::: {.column width="45%"}
-![](images/preprint-title.png){width="100%"}
+![](images/tacos-paper-title.png){width="100%"}
 
 \bigskip
 
 ![](images/preprint-fig.png){width="100%"}
 :::
+
 ::: {.column width="55%"}
 \footnotesize
+
 - Chipotle-like menu; 0, 1, or 2 plant-based options
-- Adding a PMA: \textasciitilde{}1 pp.\ less meat each
+- Adding a PMA: \textasciitilde{}1 pp. less meat each
 - New PMAs mostly cannibalize other plant-based choices
 - The market struggles are evidence, not just bad luck
 - This applies to cultured meat too
@@ -167,10 +179,12 @@ Five approaches:
 ::::: columns
 ::: {.column width="48%"}
 <!-- TODO: add screenshot of fish sauce spoon study -->
+
 \begin{center}
 \fbox{\parbox[c][0.52\textheight]{0.42\textwidth}{\centering\small [TODO: fish sauce spoon study]}}
 \end{center}
 :::
+
 ::: {.column width="52%"}
 - [Thai study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238642): put a hole in the fish sauce spoon
 - Small reduction in fish sauce per person
