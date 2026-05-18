@@ -109,21 +109,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Big question: who's the target audience? Who's going to get on board with cultured meat who isn't already on board with Impossible meat? Can you actually picture her in your mind? How big an audience is this?
 - The meat alternatives industry is really struggling (Beyond Meat down \~97% from peak valuation). What's up with that?
-- Who is the target demographic?
-- Survey data suggests a *lot* of resistance ([Peacock 2026](https://www.sciencedirect.com/science/article/abs/pii/S0195666325004544))
+- My belief, and I hope to persuade you about this: the inability of plant-based meats to find their foothold tells you something important about the cultured meat market.
+- Survey data suggests a *lot* of resistance ([Peacock 2026](https://www.sciencedirect.com/science/article/abs/pii/S0195666325004544)).
 
 ## Recent paper that introduces plant-based alternatives
 
 ::::: columns
 ::: {.column width="50%"}
-![](images/tacos-paper-title.png){width="100%"}
+\includegraphics[width=\linewidth, height=0.72\textheight, keepaspectratio]{images/tacos-paper-title.png}
 :::
 
 ::: {.column width="50%"}
-![](images/preprint-fig.png){width="100%"}
+\includegraphics[width=\linewidth, height=0.72\textheight, keepaspectratio]{images/preprint-fig.png}
 :::
 :::::
-
 
 ## Corporate campaigns: in favor, but
 
