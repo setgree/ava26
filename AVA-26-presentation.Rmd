@@ -100,47 +100,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Defaults: sorry, I'm a skeptic
 
-::::: columns
-::: {.column width="45%"}
-\includegraphics[width=\linewidth, height=0.68\textheight, keepaspectratio]{images/sacled-up.png}
-:::
-
-::: {.column width="55%"}
-- No defaults study met our inclusion criteria
-- No evidence on rebound at the next meal
-- One post-pub study: low compliance, lower sales
-- Prior: things don't scale up
-:::
-:::::
+- No defaults study met our inclusion criteria :(
+- No evidence either way on [regression to the meat](https://regressiontothemeat.substack.com/) (rebound at the next meal)
+- One post-pub study ([Ginn & Sparkman 2024](https://www.sciencedirect.com/science/article/abs/pii/S0272494423002748)) met our criteria and found + results. but also noncompliance at one school, lower sales on default days, and no measures of spatial spillovers (what people who leave the default station do instead). So net effects on meat are a bit of guesswork (not a knock on the study!)
+- Prior: things don't scale up. Especially [nduges](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA18709) but really things in general: [site selection bias](https://academic.oup.com/qje/article-abstract/130/3/1117/1933105?login=false), less [skilled/motivated administrators](https://www.aeaweb.org/articles?id=10.1257/aer.p20171115) at scale. [publication bias](https://www.pnas.org/doi/10.1073/pnas.2200300119), & [compensating behavior in the long-run](https://www.bu.edu/bulawreview/files/2023/12/STEVENSON.pdf)
 
 ## Meat alternatives: also a skeptic
 
-- Beyond Meat (BYND): down \textasciitilde{}97--99% from its 2019 peak of \$234.90
+- Big question: who's the target audience? Who's going to get on board with cultured meat who isn't already on board with Impossible meat? Can you actually picture her in your mind? How big an audience is this?
+- The meat alternatives industry is really struggling (Beyond Meat down \~97% from peak valuation). What's up with that?
 - Who is the target demographic?
-- No clear evidence a large "waiting" population exists
-- Survey data: resistance on "artificial" / "creepy" grounds
+- Survey data suggests a *lot* of resistance ([Peacock 2026](https://www.sciencedirect.com/science/article/abs/pii/S0195666325004544))
 
-## We have some experimental evidence
+## Recent paper that introduces plant-based alternatives
 
 ::::: columns
-::: {.column width="45%"}
+::: {.column width="50%"}
 ![](images/tacos-paper-title.png){width="100%"}
+:::
 
-\bigskip
-
+::: {.column width="50%"}
 ![](images/preprint-fig.png){width="100%"}
 :::
-
-::: {.column width="55%"}
-\footnotesize
-
-- Chipotle-like menu; 0, 1, or 2 plant-based options
-- Adding a PMA: \textasciitilde{}1 pp. less meat each
-- New PMAs mostly cannibalize other plant-based choices
-- The market struggles are evidence, not just bad luck
-- This applies to cultured meat too
-:::
 :::::
+
 
 ## Corporate campaigns: in favor, but
 
