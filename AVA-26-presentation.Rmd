@@ -116,57 +116,53 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ::::: columns
 ::: {.column width="50%"}
-\includegraphics[width=\linewidth, height=0.72\textheight, keepaspectratio]{images/tacos-paper-title.png}
+\begin{minipage}[c][0.72\textheight][c]{\linewidth}
+\centering
+\includegraphics[width=\linewidth, height=0.68\textheight, keepaspectratio]{images/tacos-paper-title.png}
+\end{minipage}
 :::
 
 ::: {.column width="50%"}
-\includegraphics[width=\linewidth, height=0.72\textheight, keepaspectratio]{images/preprint-fig.png}
+\begin{minipage}[c][0.72\textheight][c]{\linewidth}
+\centering
+\includegraphics[width=\linewidth, height=0.68\textheight, keepaspectratio]{images/preprint-fig.png}
+\end{minipage}
 :::
 :::::
 
-## Corporate campaigns: in favor, but
+## Corporate/legal campaigns: I'm fine with "part of the solution"
 
-- Real wins: cage-free commitments, better chicken standards
-- Corps renege; political wins can be reversed
-- Mechanism: tapping *existing* attitudes
-- Save Our Bacon Act — where's the mass pushback?
-- No hearts-and-minds, no durable change
+- Cage-free commitments, BCC, gestation crates, etc.
+- But ofc companies can reneg, laws can be overturned
+- A lot of these campaigns are [aligned with public opinion](https://www.vox.com/future-perfect/488861/meat-paradox-factory-farming-animals?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InlnRldSSXAwVk0iLCJwIjoiL2Z1dHVyZS1wZXJmZWN0LzQ4ODg2MS9tZWF0LXBhcmFkb3gtZmFjdG9yeS1mYXJtaW5nLWFuaW1hbHMiLCJleHAiOjE3ODAzMjM2MjksImlhdCI6MTc3OTExNDAyOX0.ABZI3Db-3dA5FSFs2Xt9SauGz88fuHRF_r7OOTxcUss&utm_medium=gift-link), but not with a meaningful voting bloc. Americans oppose gestation crates but obviously DGAF about Save our Bacon Act – not enough to mobilize anyway.
+- IMHO there's no path forward without convincing people that factory farming is not just *bad* but unacceptable. Right now we're at "bad, but I don't really care."
 
 ## So where does that leave us?
 
 - Defaults, alt proteins, corporate campaigns replaced individual persuasion
 - I don't see a vegan world emerging from any of these
 - Best case: less cruel factory farming in 50 years
-- We need something more transformational
+- But I want something more transformational!!
 
 ## Let's get weirder
 
-> "The best ideas look initially like bad ideas. If a good idea were obviously good, someone else would already have done it."
->
-> --- Paul Graham
+> Paul Graham, [*Black Swan Farming*](https://paulgraham.com/swan.html)*:* "The best ideas look initially like bad ideas...If a good idea were obviously good, someone else would already have done it."
 
-\bigskip
+- Context here is startup ideas that change the world but that seemed insane at the outset, like a business that hinges on letting strangers into your home days/weeks at a time.
 
-- If defaults were going to transform the world, they already would have
-- We need ideas you'd be embarrassed to pitch
+- Likewise,defaults, alt proteins, and campaigns allI sound like good ideas. I want to hear more ideas that are like Airbnb or Dropbox, something that will probably fail but might
 
 ## Weird flavor 1: literally weird
 
 ::::: columns
 ::: {.column width="48%"}
-<!-- TODO: add screenshot of fish sauce spoon study -->
-
-\begin{center}
-\fbox{\parbox[c][0.52\textheight]{0.42\textwidth}{\centering\small [TODO: fish sauce spoon study]}}
-\end{center}
+\includegraphics[width=\linewidth, height=0.65\textheight, keepaspectratio]{images/fish-sauce-serving-spoon.png}
 :::
 
 ::: {.column width="52%"}
-- [Thai study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238642): put a hole in the fish sauce spoon
-- Small reduction in fish sauce per person
-- Fish sauce = anchovies, shrimp, very small animals
-- At scale: a lot of lives
-- Nobody pitches this at a conference
+- [Thai study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238642): put a hole in the fish sauce spoon! Make it inconvenient to do your normal stuff
+- I think this would never fly in America but who cares? If it works there, great
+- Small reduction in fish sauce per person (\textasciitilde{}2.6g per bowl; [Kanchanachitra et al. 2020](https://doi.org/10.1371/journal.pone.0238642)), but fish sauce fishes are really small so that's actually a lot of fish lives
 :::
 :::::
 
