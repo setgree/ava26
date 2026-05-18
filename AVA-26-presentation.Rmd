@@ -164,11 +164,11 @@ Main approaches:
 ## Weird as in "they let you do that??"
 
 ::::: columns
-::: {.column width="48%"}
+::: {.column width="32%"}
 \includegraphics[width=\linewidth, height=0.65\textheight, keepaspectratio]{images/fish-sauce-serving-spoon.png}
 :::
 
-::: {.column width="52%"}
+::: {.column width="68%"}
 - Thai cafeterias put holes in fish sauce spoons [Kanchanachitra et al. 2020](https://doi.org/10.1371/journal.pone.0238642))!
 - I think this would never fly in America but who cares? If it works there, great
 - Small reduction in fish sauce per person – 0.58g per bowl – but fish sauce fishes are really small so that's actually a lot of fish lives
