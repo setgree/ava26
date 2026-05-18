@@ -14,3 +14,10 @@ foodlab-logo.png
 .Rhistory
 .RData
 .Ruserdata
+
+# System / beamer
+.DS_Store
+*.nav
+*.snm
+*.out
+*.toc
