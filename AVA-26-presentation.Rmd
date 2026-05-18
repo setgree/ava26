@@ -65,7 +65,7 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 :::::
 
-## What interventions have been tried?
+## What was tried?
 
 ::::: columns
 ::: {.column width="50%"}
@@ -73,25 +73,28 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 
 ::: {.column width="50%"}
-\footnotesize
-Main approaches: **Persuasion** (animal welfare, environment, health), **choice architecture** (nudges/defaults), **psychology** (mostly norms)
+- **Persuasion**: animal welfare, environment, health
+- **Choice architecture**: nudges, defaults
+- **Psychology**: mostly norms experiments
 
 \bigskip
 
-**Overall: small, sparse effects** — generally a few percentage points
+**Overall: small, sparse effects**
 :::
 :::::
 
-## This paralleled a conversation happening in the movement (that I didn't know about)
+## Movement leaders reached the same conclusion
 
 ::::: columns
-::: {.column width="38%"}
+::: {.column width="28%"}
 ![](images/MEAT.jpg){width="100%"}
 :::
 
-::: {.column width="62%"}
-- Around the same time, movement leaders figured out a big rethink was called for
-- Three new strategies emerged: **defaults at large institutions, corporate campaigns, and alt proteins**
+::: {.column width="72%"}
+- Around the same time, movement orgs concluded persuasion wasn't working
+- **Defaults**: plant-forward menus at scale (e.g., universities, hospitals)
+- **Alt proteins**: Bruce Friedrich and the Good Food Institute
+- **Corporate campaigns**: cage-free, better chicken welfare standards
 :::
 :::::
 
