@@ -140,9 +140,9 @@ Main approaches:
 
 ::: {.column width="60%"}
 - Cage-free commitments, BCC, gestation crates, etc.
-- But ofc companies can reneg, laws can be overturned
-- A lot of these campaigns are [aligned with public opinion](https://www.vox.com/future-perfect/488861/meat-paradox-factory-farming-animals?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InlnRldSSXAwVk0iLCJwIjoiL2Z1dHVyZS1wZXJmZWN0LzQ4ODg2MS9tZWF0LXBhcmFkb3gtZmFjdG9yeS1mYXJtaW5nLWFuaW1hbHMiLCJleHAiOjE3ODAzMjM2MjksImlhdCI6MTc3OTExNDAyOX0.ABZI3Db-3dA5FSFs2Xt9SauGz88fuHRF_r7OOTxcUss&utm_medium=gift-link), but not with a meaningful voting bloc. Americans oppose gestation crates but obviously DGAF about Save our Bacon Act – not enough to mobilize anyway.
-- IMHO there's no path forward without convincing people that factory farming is not just *bad* but unacceptable. Right now we're at "bad, but I don't really care."
+- But companies can reneg, laws can be overturned.
+- A lot of these campaigns are [aligned with public opinion](https://www.vox.com/future-perfect/488861/meat-paradox-factory-farming-animals?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InlnRldSSXAwVk0iLCJwIjoiL2Z1dHVyZS1wZXJmZWN0LzQ4ODg2MS9tZWF0LXBhcmFkb3gtZmFjdG9yeS1mYXJtaW5nLWFuaW1hbHMiLCJleHAiOjE3ODAzMjM2MjksImlhdCI6MTc3OTExNDAyOX0.ABZI3Db-3dA5FSFs2Xt9SauGz88fuHRF_r7OOTxcUss&utm_medium=gift-link), but not with a meaningful voting bloc. Americans oppose gestation crates but obviously DGAF about [Save our Bacon Act](https://farmanimalwelfare.substack.com/p/save-our-pigs) – not enough to mobilize anyway.
+- IMHO we need to move people from "factory farming is bad' to "it's unacceptable."
 :::
 :::::
 
@@ -150,16 +150,16 @@ Main approaches:
 
 - Defaults, alt proteins, corporate campaigns replaced individual persuasion
 - I don't see a vegan world emerging from any of these
-- Best case: less cruel factory farming in 50 years
+- Best case: less cruel factory farming in 50 years, but more animals
 - But I want something more transformational!!
 
 ## Let's get weirder
 
 > Paul Graham, [*Black Swan Farming*](https://paulgraham.com/swan.html)*:* "The best ideas look initially like bad ideas...If a good idea were obviously good, someone else would already have done it."
 
-- Context here is startup ideas that change the world but that seemed insane at the outset, like a business that hinges on letting strangers into your home days/weeks at a time.
+- Context here is startup ideas that become huge – bigger than entire alt protein market – but seem ridiculous at the outset, like a business that hinges on people letting strangers into their homes for overnight stays.
 
-- Likewise,defaults, alt proteins, and campaigns allI sound like good ideas. I want to hear more ideas that are like Airbnb or Dropbox, something that will probably fail but might work in a huge way
+- Likewise, defaults, alt proteins, and campaigns allI sound like good ideas. I want to hear more ideas that are like startup ideas
 
 ## Maybe that means literally weird as in "WTH??"
 
