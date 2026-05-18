@@ -16,6 +16,8 @@ linkcolor: blue
 ---
 
 ```{r setup, include=FALSE}
+# requires the foodlabslides package: https://github.com/setgree/HSFL-slides
+# remotes::install_github("setgree/HSFL-slides")
 pkg_resources <- system.file("rmarkdown/templates/foodlab_presentation",
                              package = "foodlabslides")
 
