@@ -102,14 +102,13 @@ Main approaches:
 
 ## Defaults: sorry, I'm a skeptic
 
-- No defaults study met our inclusion criteria :(
-- No evidence either way on [regression to the meat](https://regressiontothemeat.substack.com/) (rebound at the next meal)
-- One post-pub study ([Ginn & Sparkman 2024](https://www.sciencedirect.com/science/article/abs/pii/S0272494423002748)) met our criteria and found + results. but also noncompliance at one school, lower sales on default days, and no measures of spatial spillovers (what people who leave the default station do instead). So net effects on meat are a bit of guesswork (not a knock on the study!)
+- No defaults study met our inclusion criteria, which means we found no evidence either way on [regression to the meat](https://regressiontothemeat.substack.com/) (rebound at the next meal)
+- One post-pub study ([Ginn & Sparkman 2024](https://www.sciencedirect.com/science/article/abs/pii/S0272494423002748)) met our criteria and found + results. but also 1) noncompliance at one school 2) lower sales on default days and 3) no measures of spatial spillovers (what people who leave the default station do instead). So net effects on meat are a bit of guesswork (not a knock on the study! Just really hard to do this stuff!)
 - Prior: things don't scale up. Especially [nduges](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA18709) but really things in general: [site selection bias](https://academic.oup.com/qje/article-abstract/130/3/1117/1933105?login=false), less [skilled/motivated administrators](https://www.aeaweb.org/articles?id=10.1257/aer.p20171115) at scale. [publication bias](https://www.pnas.org/doi/10.1073/pnas.2200300119), & [compensating behavior in the long-run](https://www.bu.edu/bulawreview/files/2023/12/STEVENSON.pdf)
 
 ## Meat alternatives: also a skeptic
 
-- Big question: who's the target audience? Who's going to get on board with cultured meat who isn't already on board with Impossible meat? Can you actually picture her in your mind? How big an audience is this?
+- Big question: who's the target audience? Who's going to get on board with cultured meat who isn't already on board with Impossible meat? Can you actually picture her in your mind? How many of her are there out there?
 - The meat alternatives industry is really struggling (Beyond Meat down \~97% from peak valuation). What's up with that?
 - My belief, and I hope to persuade you about this: the inability of plant-based meats to find their foothold tells you something important about the cultured meat market.
 - Survey data suggests a *lot* of resistance ([Peacock 2026](https://www.sciencedirect.com/science/article/abs/pii/S0195666325004544)).
@@ -134,10 +133,18 @@ Main approaches:
 
 ## Corporate/legal campaigns: I'm fine with "part of the solution"
 
+::::: columns
+::: {.column width="40%"}
+\includegraphics[width=\linewidth, height=0.68\textheight, keepaspectratio]{images/kfc-chickens-out.png}
+:::
+
+::: {.column width="60%"}
 - Cage-free commitments, BCC, gestation crates, etc.
 - But ofc companies can reneg, laws can be overturned
 - A lot of these campaigns are [aligned with public opinion](https://www.vox.com/future-perfect/488861/meat-paradox-factory-farming-animals?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InlnRldSSXAwVk0iLCJwIjoiL2Z1dHVyZS1wZXJmZWN0LzQ4ODg2MS9tZWF0LXBhcmFkb3gtZmFjdG9yeS1mYXJtaW5nLWFuaW1hbHMiLCJleHAiOjE3ODAzMjM2MjksImlhdCI6MTc3OTExNDAyOX0.ABZI3Db-3dA5FSFs2Xt9SauGz88fuHRF_r7OOTxcUss&utm_medium=gift-link), but not with a meaningful voting bloc. Americans oppose gestation crates but obviously DGAF about Save our Bacon Act – not enough to mobilize anyway.
 - IMHO there's no path forward without convincing people that factory farming is not just *bad* but unacceptable. Right now we're at "bad, but I don't really care."
+:::
+:::::
 
 ## So where does that leave us?
 
