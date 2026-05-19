@@ -187,4 +187,6 @@ Main approaches:
 ## So what are your ideas
 
 - Esp. if you want to test them rigorously & want someone to do the IRB paperwork & coauthor the paper, I'm here for it ([setgree\@stanford.edu](mailto:setgree@stanford.edu))
-- So what are your ideas? Seriously
+- So what are your ideas?
+
+P.S. if you want to talk about this later, please email me 1-2 paragraphs describing your study – make sure to mention **Population**, **Intervention** (the thing you're testing), **Comparator (**who's your control group/what are they doing? Is there one?), and **Outcome** (thing you're measuring). I can help you with these if you're not sure yet.

@@ -21,3 +21,5 @@ foodlab-logo.png
 *.snm
 *.out
 *.toc
+.Rproj.user
+.positai
